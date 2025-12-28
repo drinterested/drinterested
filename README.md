@@ -1,16 +1,23 @@
-# 🩺 Dr. Interested
-
-<p align="center">
-  <img src="https://www.drinterested.org/logo.png" alt="Dr. Interested Logo" width="170"/>
-</p>
-
-<p align="center">
-  <strong>Inspiring the Next Generation of Healthcare Professionals</strong>
-</p>
-
-<p align="center">
-  A global youth led movement fixing the career education gap in healthcare.
-</p>
+<table>
+  <tr>
+    <td width="60%" valign="middle">
+      <h1>Dr. Interested</h1>
+      <p><strong>Inspiring the Next Generation of Healthcare Professionals</strong></p>
+      <p>
+        Dr. Interested is a global youth led movement fixing the career education gap in healthcare.
+        We exist because career education is not enough, and millions of young people are navigating
+        their futures without access, clarity, or knowledge of their rights to development and education.
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img
+        src="https://github.com/user-attachments/assets/7c6556a5-53ca-45be-b0f4-e8a74b339610"
+        alt="Dr. Interested Logo"
+        width="300"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
